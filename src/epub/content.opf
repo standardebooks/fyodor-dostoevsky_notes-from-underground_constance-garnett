@@ -40,7 +40,7 @@
 		<dc:description id="description">A man living alone in St. Petersburg writes memoirs describing his alienation from modern society.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Notes from the Underground&lt;/i&gt; presents itself as an excerpt from the rambling memoirs of a unnamed narrator, who is a retired civil servant living in St. Petersburg. The book is separated into to two parts. The first part is told in monologue form and attacks emerging Western philosophy, especially Nikolay Chernyshevsky’s &lt;i&gt;What Is to Be Done?&lt;/i&gt;. The second part of the book is called “&lt;i xml:lang=&quot;fr&quot;&gt;À Propos&lt;/i&gt; of the Wet Snow” and describes events that appear to be destroying and sometimes renewing the underground man, who acts as a first person, unreliable narrator and anti-hero. First published in 1864, presented here is Constance Garnett’s translation of 1918.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Notes from the Underground&lt;/i&gt; presents itself as an excerpt from the rambling memoirs of a unnamed narrator, who is a retired civil servant living in St. Petersburg. The book is separated into to two parts. The first part is told in monologue form and attacks emerging Western philosophy, especially Nikolay Chernyshevsky’s &lt;i&gt;What Is to Be Done?&lt;/i&gt;. The second part of the book is called “&lt;i xml:lang="fr"&gt;À Propos&lt;/i&gt; of the Wet Snow” and describes events that appear to be destroying and sometimes renewing the underground man, who acts as a first person, unreliable narrator and anti-hero. First published in 1864, presented here is Constance Garnett’s translation of 1918.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
@@ -118,19 +118,21 @@
 		<item href="text/chapter-2-9.xhtml" id="chapter-2-9.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-2-10.xhtml" id="chapter-2-10.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/epigraph-1.xhtml" id="epigraph-1.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/epigraph-2.xhtml" id="epigraph-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/epigraph.xhtml" id="epigraph.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/part-1.xhtml" id="part-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/part-2.xhtml" id="part-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="preface.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="part-1.xhtml"/>
-		<itemref idref="epigraph-1.xhtml"/>
 		<itemref idref="chapter-1-1.xhtml"/>
 		<itemref idref="chapter-1-2.xhtml"/>
 		<itemref idref="chapter-1-3.xhtml"/>
@@ -143,7 +145,7 @@
 		<itemref idref="chapter-1-10.xhtml"/>
 		<itemref idref="chapter-1-11.xhtml"/>
 		<itemref idref="part-2.xhtml"/>
-		<itemref idref="epigraph-2.xhtml"/>
+		<itemref idref="epigraph.xhtml"/>
 		<itemref idref="chapter-2-1.xhtml"/>
 		<itemref idref="chapter-2-2.xhtml"/>
 		<itemref idref="chapter-2-3.xhtml"/>
