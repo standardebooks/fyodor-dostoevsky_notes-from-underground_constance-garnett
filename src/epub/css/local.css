@@ -30,6 +30,11 @@ footer{
 	text-align: center;
 }
 
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
@@ -45,6 +50,10 @@ footer{
 	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+}
+
+[epub|type~="epigraph"] h2{
+	font-style: normal;
 }
 
 /* End all epigraphs */
