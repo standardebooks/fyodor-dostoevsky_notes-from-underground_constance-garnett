@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-the-underground/constance-garnett</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-underground/constance-garnett</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<meta property="se:revision-number">0</meta>
@@ -28,8 +28,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" rel="onix-record"/>
-		<dc:title id="title">Notes from the Underground</dc:title>
-		<meta property="file-as" refines="#title">Notes from the Underground</meta>
+		<dc:title id="title">Notes from Underground</dc:title>
+		<meta property="file-as" refines="#title">Notes from Underground</meta>
 		<dc:subject id="subject-1">Political fiction</dc:subject>
 		<dc:subject id="subject-2">Russia -- History -- 1801-1917 -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Russia -- Officials and employees -- Fiction</dc:subject>
@@ -51,7 +51,7 @@
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Notes_from_the_Underground</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-dostoevsky_notes-from-the-underground_constance-garnett</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-dostoevsky_notes-from-underground_constance-garnett</meta>
 		<dc:creator id="author">Fyodor Dostoevsky</dc:creator>
 		<meta property="file-as" refines="#author">Dostoevsky, Fyodor</meta>
 		<meta property="alternate-script" refines="#author" xml:lang="ru">Фёдор Миха́йлович Достое́вский</meta>
