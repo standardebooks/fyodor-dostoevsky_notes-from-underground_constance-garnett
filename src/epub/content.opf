@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-underground/constance-garnett</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2019-02-12T23:01:19Z</dc:date>
+		<meta property="dcterms:modified">2019-02-12T23:01:19Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,15 +41,16 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Notes from the Underground&lt;/i&gt; is a fictional collection of memoirs written by a civil servant living alone in &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg. The man is never named and is generally referred to as the Underground Man. The “underground” in the book refers to the narrator’s isolation, which he described in chapter 11 as “listening through a crack under the floor.”&lt;/p&gt;
-			&lt;p&gt;It is considered to be one of the first existentialist novels. With this book, Dostoevsky challenged the ideologies of his time like nihilism and utopianism. The Underground Man shows how idealised rationality in utopias is inherently flawed, because it doesn’t account for the irrational side of humanity. This novella has had a big impact on many different works in literature and philosophy. It has influenced writers like Franz Kafka and Friedrich Nietzsche. A similar character is also found in Martin Scorsese’s &lt;i&gt;Taxi Driver&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;It is considered to be one of the first existentialist novels. With this book, Dostoevsky challenged the ideologies of his time, like nihilism and utopianism. The Underground Man shows how idealized rationality in utopias is inherently flawed, because it doesn’t account for the irrational side of humanity.&lt;/p&gt;
+			&lt;p&gt;This novel has had a big impact on many different works of literature and philosophy. It has influenced writers like Franz Kafka and Friedrich Nietzsche. A similar character is also found in Martin Scorsese’s &lt;i&gt;Taxi Driver&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Notes from the Underground&lt;/i&gt; was published in 1864 as the first four issues of &lt;i&gt;Epoch&lt;/i&gt;, a Russian magazine by Fyodor and Mikhail Dostoevsky. Presented here is Constance Garnett’s translation from 1918.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/600</dc:source>
 		<dc:source>https://books.google.com/books?id=jQFgAAAAMAAJ</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">44335</meta>
+		<meta property="se:reading-ease.flesch">69.92</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Notes_from_the_Underground</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-dostoevsky_notes-from-underground_constance-garnett</meta>
 		<dc:creator id="author">Fyodor Dostoevsky</dc:creator>
@@ -86,10 +87,14 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
-		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
-		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<dc:contributor id="producer-3">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-3">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-3">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
