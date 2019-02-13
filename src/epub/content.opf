@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-underground/constance-garnett</dc:identifier>
 		<dc:date>2019-02-12T23:01:19Z</dc:date>
-		<meta property="dcterms:modified">2019-02-12T23:01:19Z</meta>
-		<meta property="se:revision-number">1</meta>
+		<meta property="dcterms:modified">2019-02-13T17:55:45Z</meta>
+		<meta property="se:revision-number">2</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,10 +40,10 @@
 		<dc:description id="description">A man living alone in St. Petersburg writes memoirs describing his alienation from modern society.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Notes from the Underground&lt;/i&gt; is a fictional collection of memoirs written by a civil servant living alone in &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg. The man is never named and is generally referred to as the Underground Man. The “underground” in the book refers to the narrator’s isolation, which he described in chapter 11 as “listening through a crack under the floor.”&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Notes from Underground&lt;/i&gt; is a fictional collection of memoirs written by a civil servant living alone in &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg. The man is never named and is generally referred to as the Underground Man. The “underground” in the book refers to the narrator’s isolation, which he described in chapter 11 as “listening through a crack under the floor.”&lt;/p&gt;
 			&lt;p&gt;It is considered to be one of the first existentialist novels. With this book, Dostoevsky challenged the ideologies of his time, like nihilism and utopianism. The Underground Man shows how idealized rationality in utopias is inherently flawed, because it doesn’t account for the irrational side of humanity.&lt;/p&gt;
 			&lt;p&gt;This novel has had a big impact on many different works of literature and philosophy. It has influenced writers like Franz Kafka and Friedrich Nietzsche. A similar character is also found in Martin Scorsese’s &lt;i&gt;Taxi Driver&lt;/i&gt;.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Notes from the Underground&lt;/i&gt; was published in 1864 as the first four issues of &lt;i&gt;Epoch&lt;/i&gt;, a Russian magazine by Fyodor and Mikhail Dostoevsky. Presented here is Constance Garnett’s translation from 1918.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Notes from Underground&lt;/i&gt; was published in 1864 as the first four issues of &lt;i&gt;Epoch&lt;/i&gt;, a Russian magazine by Fyodor and Mikhail Dostoevsky. Presented here is Constance Garnett’s translation from 1918.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
