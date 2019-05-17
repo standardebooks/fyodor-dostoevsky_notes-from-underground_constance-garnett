@@ -26,25 +26,26 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Notes from Underground</dc:title>
 		<meta property="file-as" refines="#title">Notes from Underground</meta>
 		<dc:subject id="subject-1">Political fiction</dc:subject>
 		<dc:subject id="subject-2">Russia -- History -- 1801-1917 -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Russia -- Officials and employees -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/600</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/600</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/600</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85104355</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A man living alone in St. Petersburg writes memoirs describing his alienation from modern society.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Notes from Underground&lt;/i&gt; is a fictional collection of memoirs written by a civil servant living alone in &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg. The man is never named and is generally referred to as the Underground Man. The “underground” in the book refers to the narrator’s isolation, which he described in chapter 11 as “listening through a crack under the floor.”&lt;/p&gt;
 			&lt;p&gt;It is considered to be one of the first existentialist novels. With this book, Dostoevsky challenged the ideologies of his time, like nihilism and utopianism. The Underground Man shows how idealized rationality in utopias is inherently flawed, because it doesn’t account for the irrational side of humanity.&lt;/p&gt;
 			&lt;p&gt;This novel has had a big impact on many different works of literature and philosophy. It has influenced writers like Franz Kafka and Friedrich Nietzsche. A similar character is also found in Martin Scorsese’s &lt;i&gt;Taxi Driver&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Notes from Underground&lt;/i&gt; was published in 1864 as the first four issues of &lt;i&gt;Epoch&lt;/i&gt;, a Russian magazine by Fyodor and Mikhail Dostoevsky. Presented here is Constance Garnett’s translation from 1918.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/600</dc:source>
 		<dc:source>https://books.google.com/books?id=jQFgAAAAMAAJ</dc:source>
