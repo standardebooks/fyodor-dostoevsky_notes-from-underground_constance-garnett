@@ -51,8 +51,8 @@ span[epub|type~="subtitle"]{
 	font-style: normal;
 	font-variant: small-caps;
 }
-
 /* End all epigraphs */
+
 /* Full-page epigraphs */
 section[epub|type~="epigraph"]{
 	text-align: center;
@@ -80,6 +80,5 @@ section[epub|type~="epigraph"] > *{
 	section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
-
 }
 /* End full-page epigraphs */
