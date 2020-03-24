@@ -41,11 +41,6 @@ span[epub|type~="subtitle"]{
 	hyphens: none;
 }
 
-[epub|type~="epigraph"]{
-	font-style: italic;
-	hyphens: none;
-}
-
 [epub|type~="epigraph"] cite{
 	margin-top: 1em;
 	font-style: normal;
