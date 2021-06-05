@@ -52,7 +52,7 @@
 		<dc:source>https://books.google.com/books?id=jQFgAAAAMAAJ</dc:source>
 		<meta property="se:word-count">44338</meta>
 		<meta property="se:reading-ease.flesch">69.92</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Notes_from_the_Underground</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Notes_from_Underground</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-dostoevsky_notes-from-underground_constance-garnett</meta>
 		<dc:creator id="author">Fyodor Dostoevsky</dc:creator>
 		<meta property="file-as" refines="#author">Dostoevsky, Fyodor</meta>
