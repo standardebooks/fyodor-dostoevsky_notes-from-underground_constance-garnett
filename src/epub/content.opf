@@ -41,7 +41,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A man living alone in St. Petersburg writes memoirs describing his alienation from modern society.</dc:abstract>
+		<meta property="schema:abstract">A man living alone in St. Petersburg writes memoirs describing his alienation from modern society.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Notes from Underground&lt;/i&gt; is a fictional collection of memoirs written by a civil servant living alone in &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg. The man is never named and is generally referred to as the Underground Man. The “underground” in the book refers to the narrator’s isolation, which he described in chapter 11 as “listening through a crack under the floor.”&lt;/p&gt;
 			&lt;p&gt;It is considered to be one of the first existentialist novels. With this book, &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Dostoevsky&lt;/a&gt; challenged the ideologies of his time, like nihilism and utopianism. The Underground Man shows how idealized rationality in utopias is inherently flawed, because it doesn’t account for the irrational side of humanity.&lt;/p&gt;
